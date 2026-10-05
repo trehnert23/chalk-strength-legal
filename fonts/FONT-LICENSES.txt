@@ -1,0 +1,7 @@
+Fonts bundled with Chalk Strength
+
+Inter     Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+Oswald    Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+
+Both fonts are licensed under the SIL Open Font License, Version 1.1.
+The full license text is at https://openfontlicense.org
